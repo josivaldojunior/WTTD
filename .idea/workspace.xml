@@ -4601,10 +4601,7 @@
       <change afterPath="$PROJECT_DIR$/.wttd/share/jupyter/nbextensions/jupyter-js-widgets/extension.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.wttd/share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.wttd/share/man/man1/ipython.1.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventex/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/eventex/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventex/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/eventex/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4683,7 +4680,8 @@
       <workItem from="1581279654092" duration="6000" />
       <workItem from="1581468512684" duration="618000" />
       <workItem from="1582066301572" duration="12045000" />
-      <workItem from="1583086958982" duration="3847000" />
+      <workItem from="1583086958982" duration="4470000" />
+      <workItem from="1583140539165" duration="1500000" />
     </task>
     <servers />
   </component>
@@ -4698,9 +4696,9 @@
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="448" y="177" width="491" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.741@0.0.1366.741" timestamp="1582157339144" />
-    <state x="376" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1583086963538">
+    <state x="376" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1583140540273">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="376" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1583086963538" />
+    <state x="376" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1583140540273" />
   </component>
 </project>
