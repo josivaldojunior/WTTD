@@ -4602,6 +4602,7 @@
       <change afterPath="$PROJECT_DIR$/.wttd/share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.wttd/share/man/man1/ipython.1.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4630,6 +4631,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -4681,7 +4683,7 @@
       <workItem from="1581468512684" duration="618000" />
       <workItem from="1582066301572" duration="12045000" />
       <workItem from="1583086958982" duration="4470000" />
-      <workItem from="1583140539165" duration="1500000" />
+      <workItem from="1583140539165" duration="10907000" />
     </task>
     <servers />
   </component>
@@ -4692,10 +4694,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="278" y="33" width="806" height="678" key="#Servers" timestamp="1583795597818">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="278" y="33" width="806" height="678" key="#Servers/0.0.1366.741@0.0.1366.741" timestamp="1583795597818" />
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583795499327">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="141" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.741@0.0.1366.741" timestamp="1583795499327" />
     <state x="448" y="177" width="491" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582157339144">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="448" y="177" width="491" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.741@0.0.1366.741" timestamp="1582157339144" />
+    <state x="187" y="6" width="992" height="731" key="SettingsEditor" timestamp="1583795804364">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="187" y="6" width="992" height="731" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1583795804364" />
     <state x="376" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1583140540273">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
