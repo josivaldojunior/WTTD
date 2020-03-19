@@ -5027,7 +5027,6 @@
       <change afterPath="$PROJECT_DIR$/.wttd/share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.wttd/share/man/man1/ipython.1.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventex/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/eventex/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -5109,7 +5108,7 @@
       <workItem from="1581468512684" duration="618000" />
       <workItem from="1582066301572" duration="12045000" />
       <workItem from="1583086958982" duration="4470000" />
-      <workItem from="1583140539165" duration="18706000" />
+      <workItem from="1583140539165" duration="19581000" />
     </task>
     <servers />
   </component>
