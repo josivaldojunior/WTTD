@@ -11,7 +11,7 @@ class SubscribeTest(TestCase):
         self.assertEqual(200, self.resp.status_code)
 
     def test_template(self):
-        '''Must use subscriptions/subscription_form.html'''
+        """Must use subscriptions/subscription_form.html"""
         self.assertTemplateUsed(self.resp, 'subscriptions/subscription_form.html')
 
     def test_html(self):
